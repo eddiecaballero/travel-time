@@ -1,4 +1,4 @@
-[Travel Time]
+Travel Time
 ========
 
 ## Description
